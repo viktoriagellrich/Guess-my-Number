@@ -9,8 +9,8 @@ Aside the standard package files, there is the random_number_game file where the
 
 ## Installation
 
-Install with Pip: 'pip3 install number_games_package'
+Install with Pip: pip3 install number_games_package
 
 ## Usage
 
-Run 'RandomNumberGame.play_a_game()' in your terminal.
+Run RandomNumberGame.play_a_game() in your terminal.
